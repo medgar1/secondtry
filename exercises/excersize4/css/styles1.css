@@ -1,0 +1,47 @@
+body {        
+	background:#ffffff;
+}
+
+
+
+
+#black {
+	background-color:black;
+	width:1000;
+	height: 1000;
+}
+
+#container {
+	background-color:red;
+
+ width: :1000px;
+
+ height: :2000px;
+
+}
+
+
+
+
+#yellow {
+	background:yellow;
+
+ width: 1000px;
+ height: 2000px;
+
+ margin-bottom: 10px;
+
+margin-right: 20px;
+margin-left: 20px;
+border-radius: 10px 4px 3px 2px;
+}
+
+#green {
+	background-color:green;
+
+ width: :1000px;
+
+ height: :130px;
+
+ margin-bottom: :10px;
+}
