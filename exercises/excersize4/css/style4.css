@@ -1,0 +1,55 @@
+
+
+
+#container{
+	width: 1000px;
+	height: 2000px;
+}
+
+#header{
+	width: 1000px;
+	height: 400px;
+
+}
+
+#websitename{
+	width: 1000px;
+	height: 290px;
+	margin-bottom: 10px;
+	background-color: red;
+}
+
+#bar{
+	width: 1000px;
+	height: 90px;
+	margin-bottom: 10px;
+	background-color: red;
+}
+
+#body{
+	width: 1000px;
+	height: 1300px;
+}
+
+#column1and2{
+	width:1000px;
+	height: 1300px;
+	margin-right: 10px;
+	background-color: red;
+	float: left;
+
+}
+
+
+#footer{
+	width:1000px;
+	height:300px;
+
+}
+
+#foot{
+	width:1000px;
+	height: 290px;
+	background-color: red;
+	margin-top: 10px;
+}

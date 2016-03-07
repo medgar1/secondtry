@@ -1,0 +1,39 @@
+#container {
+
+ width:
+
+ height:
+
+}
+
+#black {
+
+ width:
+
+ height:
+
+ oat: left
+
+}
+
+#green {
+
+ width: 600px
+
+ height:
+
+ oat: left
+
+ margin-left: 20px
+
+ background: white
+
+}
+
+#pink {
+
+ width: 600px
+
+ height: 200px
+
+ margin-bottom: 20px

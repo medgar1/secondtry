@@ -1,0 +1,50 @@
+body {        
+}
+
+
+#black {
+	background-color:black;
+	width:1000;
+	height: 1000;
+}
+
+#container {
+	background-color:red;
+
+ width: :1000px;
+
+ height: :2000px;
+
+}
+
+#pink{
+background-color:pink;
+ width: :1000px;
+
+ height: :350px;
+
+ oat: left
+
+}
+
+
+#yellow {
+	background-color:yellow;
+
+ width: :1000px;
+
+ height: :200px;
+
+ margin-bottom: :10px;
+
+}
+
+#green {
+	background-color:green;
+
+ width: :1000px;
+
+ height: :130px;
+
+ margin-bottom: :10px;
+}

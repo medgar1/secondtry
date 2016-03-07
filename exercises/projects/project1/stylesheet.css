@@ -1,0 +1,39 @@
+body {
+ 
+
+background-image:url(http://www.vectorgraphit.com/wp-content/uploads/2014/04/trianglify-background-6-600x260.jpg);
+background-position: 80px 40px;
+    background: #436310;
+    background: radial-gradient (#648880, #293f50);
+
+background: linear-gradient(#519459, #293f50);
+background: -webkit-linear-gradient(#519459, #293f50);
+background: -moz-linear-gradient(#519459, #293f50);
+    }
+#artist {
+    width: 1000px;
+    height: auto;
+    margin: auto;
+    background-color: blue;
+    float:auto;
+    font-family: "arial",sans-serif;
+    font-size: 16px;
+    font-style:normal;
+    text-align: :center;
+    background-image:url(http://turbo.designwoop.com/uploads/2012/03/12_free_subtle_textures_free_web_backgrounds.jpg);
+background-position: 80px 40px;
+}
+
+p {
+    text-align: center;
+    font-family: "arial", sans-serif;
+    font-style: normal;
+    float: bottom;
+}
+p {
+    text-align: center;
+    font-family: "arial", sans-serif;
+    font-style: normal;
+    float: bottom;
+    font-size: 12px;
+}
