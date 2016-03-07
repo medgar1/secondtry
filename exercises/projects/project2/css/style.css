@@ -1,0 +1,171 @@
+body {
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRFqzZTexdLXDKtI-XfXaL0lfVQ_YtjzpMOnUdCWkzkLXVeuVReA");
+    opacity: .8;
+    filter:alpha(opactiy=10);
+}
+
+header{
+	position:relative;
+}
+img
+   {
+    padding: 25px;
+    border: 25px;
+    margin: 25px;
+   	float:top;
+   	position:absolute;
+
+   }
+
+   #validate
+   {
+background:yellow;
+    padding: 25px;
+    border: 25px ;
+    margin: 25px;
+    height: 300px;
+    width:300px;
+   	position: absolute;
+   	 z-index: 20;
+   	  opacity: .8;
+   }
+   img
+   {
+    padding: 25px;
+    border: 25px;
+    margin: 25px;
+   	float:top;
+   	position:absolute;
+
+   }
+ img
+   {
+    padding: 25px;
+    border: 25px;
+    margin: 25px;
+   	float:top;
+   	position:absolute;
+
+   }
+img 
+{
+position:absolute;
+left:50px;
+top:50px;
+z-index:1;
+}
+#thesedirty
+{
+padding: 25px;
+    border: 25px ;
+    margin: 25px;
+   	width: 800px;
+    height: 800px;
+    position: absolute;
+    opacity: .8;
+    filter: alpha(opacity=10)
+    	right:180px;
+ 	top:100px;
+}
+
+#div1
+{
+background:violet;
+    padding: 25px;
+    border: 25px ;
+    margin: 25px;
+   	width: 800px;
+    height: 800px;
+    position: absolute;
+    opacity: .8;
+    filter: alpha(opacity=10)
+
+left:50px;
+top:50px;
+z-index:1;
+  }
+     img
+   {
+    padding: 25px;
+    border: 25px blue;
+    margin: 25px;
+    opacity: .8;
+    filter: alpha(opacity=10)
+   	float:top;
+   	position:top;
+
+   }
+
+#artist
+{
+width: 300px;
+	background:blue;
+    padding: 25px;
+    border: 25px blue;
+    margin: 25px;
+    opacity: .8;
+    filter: alpha(opacity=10);
+   	
+   	  	right:180px;
+ 	top:100px;
+
+}
+#div2
+{
+background:yellow;
+    padding: 25px;
+    border: 25px ;
+    margin: 25px;
+    height: 100px;
+    width:100px;
+    opacity: 0.7;
+    filter: alpha(opacity=05)
+   	float: right;
+   	clear:auto;
+   	 z-index: 10;
+   }
+
+   img
+   {
+    padding: 25px;
+    border: 25px blue;
+    margin: 25px;
+    opacity: 0.8;
+    filter: alpha(opacity=10)
+   	float:top;
+   	position:top;
+
+   }
+
+    img
+   {
+    padding: 25px;
+    border: 25px blue;
+    margin: 25px;
+    opacity: 0.8;
+    filter: alpha(opacity=10)
+   	float:top;
+   	position:relative;
+
+   }
+
+#div3
+{
+background:yellow;
+    padding: 50px;
+    border: 50px ;
+    margin: 50px;
+   	width: 10px;
+  	height: 10px;
+ 	position: absolute;
+ 	right:180px;
+ 	top:100px;
+}
+   
+   .triangle {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 5opx solid transparent;
+	border-bottom: 100px solid red;
+}
