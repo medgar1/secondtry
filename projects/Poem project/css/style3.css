@@ -1,0 +1,18 @@
+@import "compass/css3";
+
+@import url(http://fonts.googleapis.com/css?family=Share+Tech+Mono);
+
+
+body{
+  background: lightblue;
+}
+
+.svg {
+  width: 600px;
+  height: 120px;
+  display: block;
+  position: absolute;
+  overflow: hidden; 
+  margin: 0 auto;
+  background: black;
+}
