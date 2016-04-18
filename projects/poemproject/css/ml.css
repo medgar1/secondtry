@@ -16,7 +16,7 @@ body {
   float: left;
   height:50px;
   opacity: .5;
-  padding-right: 10000px;
+  padding-right: 1000px;
   padding-left: 3000px;
 
  }
@@ -362,7 +362,7 @@ $stroke-step: 7%;
   margin: 0 auto;
   background: black;
   padding-left: 1050px;
-  padding-right: 2000px;
+  padding-right: 1000px;
 }
 
 .ebene_2 {
