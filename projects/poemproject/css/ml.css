@@ -4,8 +4,8 @@ body {
   font-family: helvetica;
   color:white;
   vertical-align: center;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 10000px;
+  padding-right: 1000px;
   padding-top:50px;
 }
 
@@ -13,11 +13,11 @@ body {
  #texting{
   font-family:"garamond" ;
   position: absolute;
-  float: right;
+  float: left;
   height:50px;
   opacity: .5;
-  padding-right: 500px;
-  padding-left: 300px;
+  padding-right: 10000px;
+  padding-left: 3000px;
 
  }
 
@@ -129,7 +129,9 @@ body {
    -moz-osx-font-smoothing: grayscale;
  }
 
-
+.audio{
+  padding-bottom: 10000px;
+}
 
 @keyframes pulse {
   0% {
@@ -145,6 +147,7 @@ html,
 body {
   height: 100%;
   width: 100%;
+  padding-top: 40px;
 }
 
 
