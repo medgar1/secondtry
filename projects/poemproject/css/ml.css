@@ -16,8 +16,8 @@ body {
   float: left;
   height:50px;
   opacity: .5;
-  padding-right: 400px;
-  padding-left: 300px;
+  padding-right: 10000px;
+  padding-left: 3000px;
 
  }
 
@@ -260,7 +260,7 @@ $stroke-step: 7%;
   position: static;
   height:100%;
   width: 100%;
-  padding-left: 100px;
+  padding-left: 500px;
   padding-right: 500px;
 
 
@@ -361,8 +361,8 @@ $stroke-step: 7%;
   overflow: hidden; 
   margin: 0 auto;
   background: black;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 1050px;
+  padding-right: 2000px;
 }
 
 .ebene_2 {
@@ -372,7 +372,7 @@ $stroke-step: 7%;
   }
 
   .symbol {
-    padding-right: 100px;
-    padding-left: 100px;
+    padding-right: 1000px;
+    padding-left: 1000px;
   }
 
