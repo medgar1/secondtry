@@ -260,7 +260,7 @@ $stroke-step: 7%;
   position: static;
   height:100%;
   width: 100%;
-  padding-left: 500px;
+  padding-left: 100px;
   padding-right: 500px;
 
 
@@ -361,8 +361,8 @@ $stroke-step: 7%;
   overflow: hidden; 
   margin: 0 auto;
   background: black;
-  padding-left: 1050px;
-  padding-right: 2000px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .ebene_2 {
@@ -372,7 +372,7 @@ $stroke-step: 7%;
   }
 
   .symbol {
-    padding-right: 1000px;
-    padding-left: 1000px;
+    padding-right: 100px;
+    padding-left: 100px;
   }
 
