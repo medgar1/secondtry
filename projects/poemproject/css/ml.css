@@ -4,7 +4,7 @@ body {
   font-family: helvetica;
   color:white;
   vertical-align: center;
-  padding-left: 10000px;
+  padding-left: 1000px;
   padding-right: 1000px;
   padding-top:50px;
 }
@@ -16,8 +16,8 @@ body {
   float: left;
   height:50px;
   opacity: .5;
-  padding-right: 1000px;
-  padding-left: 3000px;
+  padding-right: 400px;
+  padding-left: 300px;
 
  }
 
