@@ -1,0 +1,102 @@
+
+
+
+#container{
+
+	width: 1000px;
+	height: 2000px;
+	float:left;
+	z-index: 10;
+	
+}
+
+#header{
+	background-image: url("internet.gif"); 
+	width: 1000px;
+	height: 400px;
+	opacity: .8;
+
+}
+
+
+
+#websitename{
+	background-image: ("vacation.jpg");
+	  background-size:80px 60px;
+     background-repeat:no-repeat;
+	min-height: 500px;
+	width: 1000px;
+	height: 290px;
+	margin-bottom: 10px;
+	background-color: red;
+}
+
+#bar{
+	background-image: ("glitch.png");
+	width: 1000px;
+	height: 90px;
+	margin-bottom: 10px;
+	;
+}
+
+#body{
+	width: 1000px;
+	height: 1300px;
+}
+
+#column1and2{
+	background-image: url("issue.gif"); 
+	width:326px;
+	height: 1300px;
+	margin-right: 10px;
+	background-color: green;
+	float: left;
+
+}
+
+
+#column3{
+	background-image: url("internet.gif"); 
+	width:326px;
+	height: 1300px;
+	background-color: yellow;
+	float: right;
+}
+
+#footer{
+	width:1000px;
+	height:300px;
+
+}
+
+#foot{
+	background-image: url("glitch.png");
+	width:1000px;
+	height: 290px;
+	background-color: red;
+	margin-top: 10px;
+	float:right;
+}
+
+#pic {
+	background-image: url("1.jpg"); 
+	width:500px;
+	height:500px;
+	background-color: orange;
+	z-index: 20;
+	position:absolute;
+	float:left;
+	opacity: .3;
+}
+#look {
+	background-image: url("vacation.jpg"); 
+	width:500px;
+	height:700px;
+	background-color: pink;
+	z-index: 50;
+	position:absolute;
+	float:right;
+	opacity: .3;
+	margin-right:-10px;
+	margin-top: 10px;
+}
